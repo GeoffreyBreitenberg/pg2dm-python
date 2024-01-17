@@ -126,3 +126,4 @@ assert(1 in c.ssd['1'])
 assert(round(c.ssd['0'][1], 4) == 2.5469)
 assert(round(c.ssd['1'][8], 4) == 10.9218)
 print("Means and SSD computation appears OK")
+ 
