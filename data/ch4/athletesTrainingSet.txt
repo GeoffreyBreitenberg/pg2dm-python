@@ -1,5 +1,5 @@
 comment	class	num	num
-Asuka Teramoto	Gymnastics	54	66
+Asuka#Teramoto	Gymnastics	54	66
 Brittainey Raven	Basketball	72	162
 Chen Nan	Basketball	78	204
 Gabby Douglas	Gymnastics	49	90
@@ -18,4 +18,4 @@ Shavonte Zellous	Basketball	70	155
 Tatyana Petrova	Track	63	108
 Tiki Gelana	Track	65	106
 Valeria Straneo	Track	66	97
-Viktoria Komova	Gymnastics	61	76
+Viktoria Komova	Gymnastics	61	76 
